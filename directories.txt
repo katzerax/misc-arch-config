@@ -1,0 +1,2 @@
+# synth-shell
+~/.config/synth-shell/synth-shell-prompt.config
