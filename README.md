@@ -1,0 +1,8 @@
+### synth-shell
+`~/.config/synth-shell/synth-shell-prompt.config`
+
+### k color scheme (for Konsole)
+`~/.local/share/konsole/K Color Scheme.colorscheme`
+
+### hyfetch
+`~/.config/hyfetch.json`
