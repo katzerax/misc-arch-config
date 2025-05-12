@@ -1,5 +1,5 @@
-### synth-shell
-`~/.config/synth-shell/synth-shell-prompt.config`
+### .bashrc
+`~/.bashrc`
 
 ### k color scheme (for Konsole)
 `~/.local/share/konsole/K Color Scheme.colorscheme`
@@ -9,3 +9,6 @@
 
 ### hyfetch
 `~/.config/hyfetch.json`
+
+### synth-shell (now obsolete because i use my fork of [powerbash](https://github.com/katzerax/powerbash))
+`~/.config/synth-shell/synth-shell-prompt.config`
