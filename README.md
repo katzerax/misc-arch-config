@@ -12,3 +12,5 @@
 
 ### synth-shell (now obsolete because i use my fork of [powerbash](https://github.com/katzerax/powerbash))
 `~/.config/synth-shell/synth-shell-prompt.config`
+### fastfetch
+`~/.config/fastfetch/config.jsonc`
