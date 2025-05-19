@@ -15,8 +15,10 @@ source ~/.local/share/powerbash/powerbash.bash-theme
 
 alias libreo='QT_QPA_PLATFORM=xcb libreoffice'
 
-alias mirrors='sudo reflector --verbose --country US --latest 15 --protocol http,https --sort rate --save /etc/pacman.d/mirrorlist'
+alias mirrors='sudo reflector --verbose --country US --latest 15 --protocol http,https --sort rate --save /etc/pacm>
 
 alias vacuum='sudo journalctl --vacuum-time=2weeks'
+
+alias orphans='pacman -Qtdq | sudo pacman -Rns -'
 
 hyfetch
