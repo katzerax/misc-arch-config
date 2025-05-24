@@ -1,4 +1,5 @@
-
+### paru conf
+`~/.config/paru/paru.conf`
 
 ### k color scheme (for Konsole)
 `~/.local/share/konsole/K Color Scheme.colorscheme`
