@@ -1,5 +1,4 @@
-### .bashrc
-`~/.bashrc`
+
 
 ### k color scheme (for Konsole)
 `~/.local/share/konsole/K Color Scheme.colorscheme`
@@ -10,7 +9,16 @@
 ### hyfetch
 `~/.config/hyfetch.json`
 
-### synth-shell (now obsolete because i use my fork of [powerbash](https://github.com/katzerax/powerbash))
-`~/.config/synth-shell/synth-shell-prompt.config`
 ### fastfetch
 `~/.config/fastfetch/config.jsonc`
+
+### .zshrc
+`~/.zshrc`
+
+### .p10k.zsh (requires zsh + ohmyzsh + powerline10k installed)
+`~/.p10k.zsh`
+
+### .bashrc (now obsolete because I use zsh+ohmyzsh+powerline10k)
+`~/.bashrc`
+### synth-shell (now obsolete because i use my fork of [powerbash](https://github.com/katzerax/powerbash))
+`~/.config/synth-shell/synth-shell-prompt.config`
